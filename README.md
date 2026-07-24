@@ -1,4 +1,4 @@
-# Recupera-o-cr-dito
+# Recuperação de Crédito
 
 ### Este projeto consiste no desenvolvimento de uma solução de análise de recuperação de crédito utilizando Python, SQL, Scikit-learn e Power BI. Inicialmente, os dados são importados para um Jupyter Notebook, onde passam por etapas de limpeza, tratamento de valores nulos e análise exploratória utilizando as bibliotecas Pandas e NumPy.
 
